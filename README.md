@@ -1,19 +1,30 @@
-<html>
-<head>
-	<title>
-	</title>
-</head>
-<body>
-	<h1>Markdown 2</h1>
-	<p> Website sayang saya buat kali ini adalah website yang berisikan tentang data diri dan tugas-tugas yang saya pelajari selama belajar di hacktiv8. karenanya tampilan website masih sangat-sangat minim, karena masih banyak yang belum bisa di terapkan dalam website saya ini.</p>
-	<ul>
-		<li>background-size</li>
-		<li>font-size</li>
-		<li>z-index</li>
-		<li>margin </li>
-		<li>padding</li>
-		<li>dan masih banyak tag-tag yang lain nya</li>
-	</ul>
-	<p>Website ini masih dalam tahap pengembangan, untuk mngetahui website ini akan seperti apa silahkan terus kunjungi website ini, anda pasti akan mengetahui, sesuatu yang terbaru dan menarik dalam website inii..sampai ketemu di lain waktu..</p>
-</body>
-</html>
+#About This Site
+Di dalam materi minggu pertama,**_HACKTIV8_**  mengajarkan saya tentang membuat website sederhana dengan syntax **_HTML_**, tidak hanya syntax **_HTML_**, di sana juga di ajarkan bagaimana agar tampilan website yang di buat dengan **_HTML_** bisa terlihat lebih indah dan menarik tentunya, yaitu dnegan menggunakan **_CSS_**. Dengan kolaborasi **_HTML_** dan **_CSS_** nantinya tampilan website bisa terlihat lebih menarik. Nah setelah materi yang diberikan selesai dan beberapa tantangan juga sudah di lewati, di akhir pekan, hacktiv8 memberikan tantangan kepada muridnya supaya berkreasi membuat website sederhana ciptaan masing-masing muridnya. Dari situlah website tersebut akhirnya saya buat berdasarkan apa yang sudah saya dapatkan dari materi yang di berikan oleh **_HACKTIV8_**. Tags apa saja sih yang di gunakan dalam pembuatan website tersebut? Tentunya anda penasaran bukan ? okay..langsung saja kita liat ke bawah!!!!
+## Use Tags & Syntaxes
+Tags dan syyntaxes yang saya gunakan dalam membuat website tersebut adalah :
+**HTML**
+
+* html
+* head
+* body
+* link
+* div
+* h1
+* h2
+* img
+* p
+* ol
+* ul
+* i
+* table
+* th
+* tr
+* td
+* form
+* input
+* select
+* option
+* textarea
+
+
+
