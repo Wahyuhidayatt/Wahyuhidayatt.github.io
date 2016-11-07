@@ -1,0 +1,104 @@
+/* bagian body*/
+body{
+	background-image: url(image/background.jpg);
+	margin: 0px;
+	padding: 0px;
+	background-attachment: fixed;
+}
+/*bagian header*/
+.head {
+	background-color: #808080;
+  	border-bottom: 1px solid #466995;
+  	overflow-y: auto;
+  	width: 100%;
+  	position: fixed;
+  	top: 0px;
+  	left: 0px;
+  	z-index: 1000;
+}
+.head img{
+	border : 2px solid #000000;
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+	margin-top: 12px;
+	margin-bottom: 15px;
+}
+
+figcaption{
+	font-family: Arial ;
+	color: #000000;
+    text-shadow: 6px 6px 8px #000000;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    margin :0;
+    padding: 0;
+    text-align: center
+}
+/*bagian dropdown*/
+.header-content{
+	background-color: #000000;
+	background-attachment: fixed;
+	color: #ccccb3;
+}
+.header-content nav ul {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    padding-right: 20px;
+    font-size: 10px;
+    list-style-type: none;
+}
+
+.header-content li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    float: left;
+    margin-left: 50px;
+    font-size: 23px;
+    float: center;
+    font-family: Lucida;
+
+}
+/*link hover*/
+
+.header-content li a:hover{
+	background-color: #808080;
+	color: #000000;
+}
+
+/* Start body*/
+.body{
+	background-color: rgb(184,184,184)  ;
+	border: 2px solid #000000;
+	margin: 390px 40px 40px 40px;
+}
+
+.body-content{
+	margin: 50px;
+}
+/*comment*/
+.comment{
+	color: #ffffff;
+	font-family: Courier;
+	margin: 0px 37px 0px 37px;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
+
+tbody{
+	text-align: left;
+}
+
+td{
+	text-align: center;
+	font-size: 25px;
+	color: #993333;
+	font-weight: bold;
+}
