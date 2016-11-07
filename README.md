@@ -4,11 +4,11 @@
 	</title>
 </head>
 <body>
-	##Markdown 2
+	<h1>Markdown 2</h1>
 	<p> Website sayang saya buat kali ini adalah website yang berisikan tentang data diri dan tugas-tugas yang saya pelajari selama belajar di hacktiv8. karenanya tampilan website masih sangat-sangat minim, karena masih banyak yang belum bisa di terapkan dalam website saya ini.</p>
 	<ul>
-		-background-size
-		-font-size
+		<li>background-size</li>
+		<li>font-size</li>
 		<li>z-index</li>
 		<li>margin </li>
 		<li>padding</li>
